@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android_ndk_tutorial</string>
+    <string name="no_text_at_present">No text at present</string>
+</resources>
