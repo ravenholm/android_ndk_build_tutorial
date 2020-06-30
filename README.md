@@ -58,7 +58,7 @@ folder including the actual helloWorld method that we'll be calling
   The APP_ABI := all indicate that this native built is expected to target all platforms
   
 # Use the ndk-build now
-- Go to the route folder of the Android project and enter the ndk-build command. This generates 
+- Go to the root folder of the Android project and enter the ndk-build command. This generates 
 an output somewhat similar to the following:
 ```java
 [arm64-v8a] Compile        : ndktest <= ndktest.c
